@@ -1,0 +1,8 @@
+name: TugOfWar
+main: com.updg.tugofwar.TOWPlugin
+version: 1
+commands:
+  addspawn:
+  setlobby:
+  setfloor:
+  clearspawns:
